@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.1267
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InversionOfControl", "InversionOfControl\InversionOfControl.csproj", "{FE1EDECD-51EC-499F-8F17-3614165D3306}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-InversionOfControl", "InversionOfControl\2-InversionOfControl.csproj", "{FE1EDECD-51EC-499F-8F17-3614165D3306}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example", "Example\Example.csproj", "{C0427A10-4423-49B3-AB52-401FA725128A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-BasicCode", "Example\1-BasicCode.csproj", "{C0427A10-4423-49B3-AB52-401FA725128A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInversionPrinciple", "DependencyInversionPrinciple\DependencyInversionPrinciple.csproj", "{3131DE20-4E56-4AB5-838C-8332AB583B11}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-DependencyInversionPrinciple", "DependencyInversionPrinciple\3-DependencyInversionPrinciple.csproj", "{3131DE20-4E56-4AB5-838C-8332AB583B11}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInjection", "DependencyInjection\DependencyInjection.csproj", "{7BBD06A9-92F2-4E78-970B-577EF9F93D93}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4-DependencyInjection", "DependencyInjection\4-DependencyInjection.csproj", "{7BBD06A9-92F2-4E78-970B-577EF9F93D93}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

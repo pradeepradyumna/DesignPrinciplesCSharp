@@ -1,0 +1,9 @@
+T:\MyExe\DesignPrinciplesCSharp\DesignPrinciplesPatterns\DependencyInversionPrinciple\bin\Debug\netstandard2.0\3-DependencyInversionPrinciple.deps.json
+T:\MyExe\DesignPrinciplesCSharp\DesignPrinciplesPatterns\DependencyInversionPrinciple\bin\Debug\netstandard2.0\3-DependencyInversionPrinciple.dll
+T:\MyExe\DesignPrinciplesCSharp\DesignPrinciplesPatterns\DependencyInversionPrinciple\bin\Debug\netstandard2.0\3-DependencyInversionPrinciple.pdb
+T:\MyExe\DesignPrinciplesCSharp\DesignPrinciplesPatterns\DependencyInversionPrinciple\obj\Debug\netstandard2.0\3-DependencyInversionPrinciple.csprojAssemblyReference.cache
+T:\MyExe\DesignPrinciplesCSharp\DesignPrinciplesPatterns\DependencyInversionPrinciple\obj\Debug\netstandard2.0\3-DependencyInversionPrinciple.csproj.CoreCompileInputs.cache
+T:\MyExe\DesignPrinciplesCSharp\DesignPrinciplesPatterns\DependencyInversionPrinciple\obj\Debug\netstandard2.0\3-DependencyInversionPrinciple.AssemblyInfoInputs.cache
+T:\MyExe\DesignPrinciplesCSharp\DesignPrinciplesPatterns\DependencyInversionPrinciple\obj\Debug\netstandard2.0\3-DependencyInversionPrinciple.AssemblyInfo.cs
+T:\MyExe\DesignPrinciplesCSharp\DesignPrinciplesPatterns\DependencyInversionPrinciple\obj\Debug\netstandard2.0\3-DependencyInversionPrinciple.dll
+T:\MyExe\DesignPrinciplesCSharp\DesignPrinciplesPatterns\DependencyInversionPrinciple\obj\Debug\netstandard2.0\3-DependencyInversionPrinciple.pdb

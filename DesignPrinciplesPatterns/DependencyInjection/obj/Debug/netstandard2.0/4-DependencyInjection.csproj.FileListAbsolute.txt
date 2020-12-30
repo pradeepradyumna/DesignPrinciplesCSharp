@@ -1,0 +1,8 @@
+T:\MyExe\DesignPrinciplesCSharp\DesignPrinciplesPatterns\DependencyInjection\bin\Debug\netstandard2.0\4-DependencyInjection.deps.json
+T:\MyExe\DesignPrinciplesCSharp\DesignPrinciplesPatterns\DependencyInjection\bin\Debug\netstandard2.0\4-DependencyInjection.dll
+T:\MyExe\DesignPrinciplesCSharp\DesignPrinciplesPatterns\DependencyInjection\bin\Debug\netstandard2.0\4-DependencyInjection.pdb
+T:\MyExe\DesignPrinciplesCSharp\DesignPrinciplesPatterns\DependencyInjection\obj\Debug\netstandard2.0\4-DependencyInjection.csproj.CoreCompileInputs.cache
+T:\MyExe\DesignPrinciplesCSharp\DesignPrinciplesPatterns\DependencyInjection\obj\Debug\netstandard2.0\4-DependencyInjection.AssemblyInfoInputs.cache
+T:\MyExe\DesignPrinciplesCSharp\DesignPrinciplesPatterns\DependencyInjection\obj\Debug\netstandard2.0\4-DependencyInjection.AssemblyInfo.cs
+T:\MyExe\DesignPrinciplesCSharp\DesignPrinciplesPatterns\DependencyInjection\obj\Debug\netstandard2.0\4-DependencyInjection.dll
+T:\MyExe\DesignPrinciplesCSharp\DesignPrinciplesPatterns\DependencyInjection\obj\Debug\netstandard2.0\4-DependencyInjection.pdb

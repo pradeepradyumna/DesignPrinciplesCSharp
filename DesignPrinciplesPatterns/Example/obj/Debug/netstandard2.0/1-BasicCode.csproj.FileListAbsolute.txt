@@ -1,0 +1,9 @@
+T:\MyExe\DesignPrinciplesCSharp\DesignPrinciplesPatterns\Example\bin\Debug\netstandard2.0\1-BasicCode.deps.json
+T:\MyExe\DesignPrinciplesCSharp\DesignPrinciplesPatterns\Example\bin\Debug\netstandard2.0\1-BasicCode.dll
+T:\MyExe\DesignPrinciplesCSharp\DesignPrinciplesPatterns\Example\bin\Debug\netstandard2.0\1-BasicCode.pdb
+T:\MyExe\DesignPrinciplesCSharp\DesignPrinciplesPatterns\Example\obj\Debug\netstandard2.0\1-BasicCode.csprojAssemblyReference.cache
+T:\MyExe\DesignPrinciplesCSharp\DesignPrinciplesPatterns\Example\obj\Debug\netstandard2.0\1-BasicCode.csproj.CoreCompileInputs.cache
+T:\MyExe\DesignPrinciplesCSharp\DesignPrinciplesPatterns\Example\obj\Debug\netstandard2.0\1-BasicCode.AssemblyInfoInputs.cache
+T:\MyExe\DesignPrinciplesCSharp\DesignPrinciplesPatterns\Example\obj\Debug\netstandard2.0\1-BasicCode.AssemblyInfo.cs
+T:\MyExe\DesignPrinciplesCSharp\DesignPrinciplesPatterns\Example\obj\Debug\netstandard2.0\1-BasicCode.dll
+T:\MyExe\DesignPrinciplesCSharp\DesignPrinciplesPatterns\Example\obj\Debug\netstandard2.0\1-BasicCode.pdb

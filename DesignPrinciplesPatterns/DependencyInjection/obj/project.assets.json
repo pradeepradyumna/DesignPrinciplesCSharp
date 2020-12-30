@@ -185,9 +185,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "T:\\MyExe\\DesignPrinciplesCSharp\\DesignPrinciplesPatterns\\DependencyInjection\\DependencyInjection.csproj",
-      "projectName": "DependencyInjection",
-      "projectPath": "T:\\MyExe\\DesignPrinciplesCSharp\\DesignPrinciplesPatterns\\DependencyInjection\\DependencyInjection.csproj",
+      "projectUniqueName": "T:\\MyExe\\DesignPrinciplesCSharp\\DesignPrinciplesPatterns\\DependencyInjection\\4-DependencyInjection.csproj",
+      "projectName": "4-DependencyInjection",
+      "projectPath": "T:\\MyExe\\DesignPrinciplesCSharp\\DesignPrinciplesPatterns\\DependencyInjection\\4-DependencyInjection.csproj",
       "packagesPath": "C:\\Users\\pradeepp\\.nuget\\packages\\",
       "outputPath": "T:\\MyExe\\DesignPrinciplesCSharp\\DesignPrinciplesPatterns\\DependencyInjection\\obj\\",
       "projectStyle": "PackageReference",

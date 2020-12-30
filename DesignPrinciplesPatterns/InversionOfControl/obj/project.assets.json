@@ -185,9 +185,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "T:\\MyExe\\DesignPrinciplesCSharp\\DesignPrinciplesPatterns\\InversionOfControl\\InversionOfControl.csproj",
-      "projectName": "InversionOfControl",
-      "projectPath": "T:\\MyExe\\DesignPrinciplesCSharp\\DesignPrinciplesPatterns\\InversionOfControl\\InversionOfControl.csproj",
+      "projectUniqueName": "T:\\MyExe\\DesignPrinciplesCSharp\\DesignPrinciplesPatterns\\InversionOfControl\\2-InversionOfControl.csproj",
+      "projectName": "2-InversionOfControl",
+      "projectPath": "T:\\MyExe\\DesignPrinciplesCSharp\\DesignPrinciplesPatterns\\InversionOfControl\\2-InversionOfControl.csproj",
       "packagesPath": "C:\\Users\\pradeepp\\.nuget\\packages\\",
       "outputPath": "T:\\MyExe\\DesignPrinciplesCSharp\\DesignPrinciplesPatterns\\InversionOfControl\\obj\\",
       "projectStyle": "PackageReference",

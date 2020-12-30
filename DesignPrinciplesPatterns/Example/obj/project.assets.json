@@ -185,9 +185,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "T:\\MyExe\\DesignPrinciplesCSharp\\DesignPrinciplesPatterns\\Example\\Example.csproj",
-      "projectName": "Example",
-      "projectPath": "T:\\MyExe\\DesignPrinciplesCSharp\\DesignPrinciplesPatterns\\Example\\Example.csproj",
+      "projectUniqueName": "T:\\MyExe\\DesignPrinciplesCSharp\\DesignPrinciplesPatterns\\Example\\1-BasicCode.csproj",
+      "projectName": "1-BasicCode",
+      "projectPath": "T:\\MyExe\\DesignPrinciplesCSharp\\DesignPrinciplesPatterns\\Example\\1-BasicCode.csproj",
       "packagesPath": "C:\\Users\\pradeepp\\.nuget\\packages\\",
       "outputPath": "T:\\MyExe\\DesignPrinciplesCSharp\\DesignPrinciplesPatterns\\Example\\obj\\",
       "projectStyle": "PackageReference",

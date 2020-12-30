@@ -185,9 +185,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "T:\\MyExe\\DesignPrinciplesCSharp\\DesignPrinciplesPatterns\\DependencyInversionPrinciple\\DependencyInversionPrinciple.csproj",
-      "projectName": "DependencyInversionPrinciple",
-      "projectPath": "T:\\MyExe\\DesignPrinciplesCSharp\\DesignPrinciplesPatterns\\DependencyInversionPrinciple\\DependencyInversionPrinciple.csproj",
+      "projectUniqueName": "T:\\MyExe\\DesignPrinciplesCSharp\\DesignPrinciplesPatterns\\DependencyInversionPrinciple\\3-DependencyInversionPrinciple.csproj",
+      "projectName": "3-DependencyInversionPrinciple",
+      "projectPath": "T:\\MyExe\\DesignPrinciplesCSharp\\DesignPrinciplesPatterns\\DependencyInversionPrinciple\\3-DependencyInversionPrinciple.csproj",
       "packagesPath": "C:\\Users\\pradeepp\\.nuget\\packages\\",
       "outputPath": "T:\\MyExe\\DesignPrinciplesCSharp\\DesignPrinciplesPatterns\\DependencyInversionPrinciple\\obj\\",
       "projectStyle": "PackageReference",
