@@ -1,0 +1,9 @@
+T:\MyExe\DesignPrinciplesCSharp\DesignPrinciplesPatterns\InversionOfControl\bin\Debug\netstandard2.0\InversionOfControl.deps.json
+T:\MyExe\DesignPrinciplesCSharp\DesignPrinciplesPatterns\InversionOfControl\bin\Debug\netstandard2.0\InversionOfControl.dll
+T:\MyExe\DesignPrinciplesCSharp\DesignPrinciplesPatterns\InversionOfControl\bin\Debug\netstandard2.0\InversionOfControl.pdb
+T:\MyExe\DesignPrinciplesCSharp\DesignPrinciplesPatterns\InversionOfControl\obj\Debug\netstandard2.0\InversionOfControl.csprojAssemblyReference.cache
+T:\MyExe\DesignPrinciplesCSharp\DesignPrinciplesPatterns\InversionOfControl\obj\Debug\netstandard2.0\InversionOfControl.csproj.CoreCompileInputs.cache
+T:\MyExe\DesignPrinciplesCSharp\DesignPrinciplesPatterns\InversionOfControl\obj\Debug\netstandard2.0\InversionOfControl.AssemblyInfoInputs.cache
+T:\MyExe\DesignPrinciplesCSharp\DesignPrinciplesPatterns\InversionOfControl\obj\Debug\netstandard2.0\InversionOfControl.AssemblyInfo.cs
+T:\MyExe\DesignPrinciplesCSharp\DesignPrinciplesPatterns\InversionOfControl\obj\Debug\netstandard2.0\InversionOfControl.dll
+T:\MyExe\DesignPrinciplesCSharp\DesignPrinciplesPatterns\InversionOfControl\obj\Debug\netstandard2.0\InversionOfControl.pdb
